@@ -18,3 +18,6 @@ Main> mapM_ print [[ spiral x y | x<-[-4..4]] | y<-[-4..4]]
 [74,43,38,39,40,41,42,37,64]
 [73,66,67,68,69,70,71,72,65]
 ```
+
+## Installation
+Simply download the _sm.hs_ and add `import SpiralMatrix.hs`.

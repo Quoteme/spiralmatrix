@@ -1,3 +1,5 @@
+module SpiralMatrix (spiral) where
+
 spiral :: Int -> Int -> Int
 spiral x y
     | x==0 && y==0 = 1
