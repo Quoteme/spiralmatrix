@@ -20,4 +20,4 @@ Main> mapM_ print [[ spiral x y | x<-[-4..4]] | y<-[-4..4]]
 ```
 
 ## Installation
-Simply download the _sm.hs_ and add `import SpiralMatrix.hs`.
+Simply download the _sm.hs_ and add `import SpiralMatrix`.
