@@ -12,4 +12,4 @@ spiral x y
         let n = (2*(abs(y))-1)^2
         if( y<0 )
         then(n+abs(y)+x)
-        else(n+5*abs(y)+x)
+        else(n+5*abs(y)-x)
